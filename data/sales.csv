@@ -1,0 +1,7 @@
+sale_id,product_name,category,price,quantity,sale_date
+1,Notebook,Office,1200.50,1,2023-09-01
+2,Pencil,Stationery,0.50,20,2023-09-01
+3,Chair,Furniture,85.00,2,2023-09-02
+4,Table,Furniture,150.00,1,2023-09-02
+5,Notebook,Office,,1,2023-09-03
+6,,Stationery,1.00,5,2023-09-03
